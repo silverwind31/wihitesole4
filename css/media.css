@@ -1,0 +1,1448 @@
+/*MEDIA*/
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1681px) {
+	.cocoen img {
+		width: 800px;
+	}
+	.header__mockup-shoes {
+		position: absolute;
+		right: 80px;
+		bottom: 77px;
+	}
+}
+
+@media only screen and (max-width : 1601px) {
+	.circle3 {
+		left: 827px;
+	}
+	.header__top {
+		padding-left: 70px;
+		padding-right: 70px;
+	}
+	
+}
+
+@media only screen and (max-width : 1537px) {
+	.about-company {
+		padding-top: 50px;
+	}
+	
+}
+@media only screen and (max-width : 1500px){
+	.mouse-scroll {
+		left: -57px;
+	}
+	
+}
+@media only screen and (max-width : 1441px) {
+	.cocoen img {
+		width: 700px;
+	}
+	.header__logo__img {
+		width: 100px;
+	}
+	.nav__link {
+		font-size: 14px;
+	}
+	.header__phone, .header__callback {
+		font-size: 18px;
+	}
+	
+}
+
+@media only screen and (max-width : 1367px){
+	.header__top {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.header__logo__img {
+		width: 85px;
+	}
+	.header__top_sticky {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+}
+@media only screen and (max-width : 1350px) {
+	.mouse-scroll {
+		left: -74px;
+	}
+
+}
+
+@media only screen and (max-width : 1233px){
+	.mouse-scroll {
+		display: none;
+	}
+	.header__title {
+		font-size: 45px;
+		line-height: 66px;
+	}
+	.header__mockup-shoes {
+		right: 48px;
+		bottom: 152px;
+	}
+	.about-company__title, .tariffs__title, .stages__title, .adv__title, .portfolio__title, .footer__title, .modal__title {
+		font-size: 30px;
+		line-height: 42px;
+	}
+	.header__description, .modal__subtitle, .about-company__description, .methods__item, .stages__subtitle, .adv__subtitle, .footer__contact__subtitle {
+		font-size: 17px;
+		line-height: 24px;
+	}
+	.portfolio__more__text {
+		font-size: 24px;
+		line-height: 44px;
+	}
+	.discount__block__title {
+		font-size: 32px;
+		line-height: 39px;
+	}
+	body, .stages__desc, .adv__desc {
+		font-size: 14px;
+		line-height: 21px;
+	}
+	.adv__item_three:before, .adv__item_four:before {
+		top: 137px;
+	}
+	.adv__item_one:before, .adv__item_two:before {
+		top: 234px;
+	}
+	.btn {
+		font-size: 14px;
+	}
+	.about-company__sneaker {
+		max-width: 593px;
+	}
+	.footer__contacts {
+		margin-top: 40px;
+	}
+	input {
+		font-size: 14px;
+	}
+	::-webkit-input-placeholder {
+		font-size: 14px;
+	}
+	::-moz-placeholder {
+		font-size: 14px;
+	}
+	:-moz-placeholder {
+		font-size: 14px;
+	}
+	:-ms-input-placeholder {
+		font-size: 14px;
+	}
+	
+
+}
+@media only screen and (max-width : 1201px) {
+	.header__logo__img, .header__top_sticky .header__logo__img {
+		width: 65px;
+	}
+	.nav__link {
+		font-size: 12px;
+	}
+	main .services .service_block {
+		padding: 80px 60px 0px 60px;
+	}
+	main .shoes .shoes_block {
+		padding: 0px 60px 198px 60px;		
+	}
+	main .shoes.last .shoes_block {
+		padding: 0px 60px 198px 60px;
+	}
+	main .shoes .shoes_name {
+		margin-left: 52%;
+	}
+	.hero {
+		padding-top: 20px;
+	}
+	.info .container {
+		padding: 51px 60px;
+	}
+	.steps .container {
+		padding: 51px 60px 0 60px;
+	}
+	.why .container {
+		padding: 40px 60px 0 60px;
+	}
+	.timberlends_price .container {
+		padding: 107px 70px 0 70px;
+	}
+	.swiper-button-next {
+		right: 190px !important;
+	}
+	.swiper-button-prev {
+		left: 190px !important;
+	}
+	.steps .steps_top {
+		gap: 20px;
+	}
+	.steps .steps_top .steps_image{
+		width: 330px;
+    	height: 330px;
+	}
+	.steps .block_title {
+		margin-right: 358px;
+		margin-top: -120px;
+	}
+	main .order .form_inputs {
+		padding: 72px 144px 73px 46px;
+	}
+	.timberlends_price .shoes_item .shoes_name {
+		margin-left: 55%;
+		margin-bottom: -11%;
+	}
+	.timberlends_price .form_block button {
+		margin-left: 10px;
+	}
+
+	/* contacts */
+	.contacts .steps_block {
+		margin-top: -80px;
+	}
+	.contacts .steps_block .section_description {
+		margin-right: 446px;
+	}
+	.contacts .container{
+		padding-bottom: 200px;
+	}
+	
+	/* О НАС */
+	.aboutUs .container {
+		padding-bottom: 64px;
+	}
+	/* ERROR */ 
+	.error .container{
+		padding-bottom: 60px;
+	}
+}
+
+@media only screen and (max-width : 1078px) {
+	body {
+		overflow-x: hidden;
+	}
+	.header__nav, .header__phone, .header__callback {
+		display: none;
+	}
+	.menu {
+		position: fixed;
+		width: 400px;
+		right: -400px;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		background: #1f1f1feb;
+		-webkit-transition: .3s;
+		-o-transition: .3s;
+		transition: .3s;
+		height: 100%;
+		-moz-flex-direction: column;
+		-ms-flex-direction: column;
+		-o-flex-direction: column;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		flex-direction: column;
+		-webkit-box-pack: center;
+		-ms-flex-pack: center;
+		justify-content: center;
+		-ms-align-items: center;
+		-webkit-box-align: center;
+		-ms-flex-align: center;
+		align-items: center;
+		z-index: 559;
+		text-align: center;
+		cursor: pointer;
+		overflow-y: auto;
+	}
+	.menu__nav {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		-moz-flex-direction: column;
+		-ms-flex-direction: column;
+		-o-flex-direction: column;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		flex-direction: column;
+		width: 100%;
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	.menu__nav .has_submenu {
+		position: relative;
+	}
+
+	.menu__nav .has_submenu > a{
+		display: flex;
+		align-items: center;
+		gap: 0 10px;
+		justify-content: center;
+	}
+
+	.menu__nav .has_submenu > a::after{
+		content: '';
+		display: block;
+		background-image: url(../img/menu_arrow.svg);
+		background-repeat: no-repeat;
+		background-position: right center;
+		height: 10px;
+		width: 10px;
+		background-size: contain;
+	}
+
+	.menu__nav .has_submenu .submenu{
+		list-style: none;
+		padding: 0;
+		margin: 0;
+		position: absolute;
+		left: 0;
+		right: 0;
+		margin: auto;
+		top: 100%;
+		width: 70%;
+		background-color: rgba(255,255,255,.3);
+		backdrop-filter: blur(10px);
+		padding: 20px;
+		text-align: left;
+		visibility: hidden;
+		opacity: 0;
+		transform: translateY(30px);
+		transition: .3s all ease;
+	}
+
+	.menu__nav .has_submenu .submenu.active{
+		opacity: 1;
+		visibility: visible;
+		transform: translate(0);
+	}
+
+	.menu__nav .has_submenu .submenu a{
+		font-size: 14px;
+		text-transform: uppercase;
+		color: #fff;
+		line-height: 18px;
+	}
+	
+	.header__burger {
+		position: fixed;
+		top: 38px;
+		right: 26px;
+		z-index: 666;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		background: #fff;
+		width: 50px;
+		height: 50px;
+		border-radius: 50%;
+		-webkit-box-pack: center;
+		-ms-flex-pack: center;
+		justify-content: center;
+		-ms-align-items: center;
+		-webkit-box-align: center;
+		-ms-flex-align: center;
+		align-items: center;
+		-moz-flex-direction: column;
+		-ms-flex-direction: column;
+		-o-flex-direction: column;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		flex-direction: column;
+		-webkit-transition: .3s;
+		-o-transition: .3s;
+		transition: .3s;
+		overflow: hidden;
+	}
+	.menu__nav__link {
+		color: #fff !important;
+		text-transform: uppercase;
+		font-weight: 700;
+		display: block;
+		padding: 10px 0;
+	}
+	.menu__phone {
+		color: #fff !important;
+		margin-top: 20px;
+		margin-bottom: 25px;
+	}
+	.header__burger_sticky {
+		top: 10px;
+	}
+	.menu__callback {
+		color: #f7be0d !important;
+	}
+	.burger__line {
+		width: 23px;
+		height: 2px;
+		background: #333;
+		margin-bottom: 4px;
+		border-radius: 5px;
+		-webkit-transition: .3s;
+		-o-transition: .3s;
+		transition: .3s;
+	}
+	.burger__line:last-child {
+		margin-bottom: 0;
+	}
+	.header__burger_toggle .burger__line:first-child {
+		-webkit-transform: rotate(45deg);
+		-ms-transform: rotate(45deg);
+		transform: rotate(45deg);
+		position: absolute;
+
+	}
+	.header__burger_toggle .burger__line:nth-child(2) {
+		position: absolute;
+		display: none;
+	}
+	.header__burger_toggle .burger__line:last-child {
+		-webkit-transform: rotate(-45deg);
+		-ms-transform: rotate(-45deg);
+		transform: rotate(-45deg);
+		position: absolute;
+	}
+	.menu_active {
+		right: 0;
+	}
+	.circle2 {
+		right: 60px;
+	}
+	.cocoen img {
+		width: 570px;
+	}
+	.cocoen-drag {
+		height: 100%;
+	}
+	.header__main {
+		margin-top: 200px;
+	}
+	.header__mockup-shoes {
+		right: 48px;
+		bottom: 258px;
+	}
+	.about-company {
+		padding-top: 0px;
+	}
+	.tarrifs__discount {
+		right: 160px;
+	}
+	.stages__list {
+		margin-left: 140px;
+	}
+}
+
+
+@media only screen and (max-width : 1025px){
+	.stages__item:nth-child(6) {
+		-webkit-box-ordinal-group: 6;
+		-ms-flex-order: 5;
+		order: 5;
+		-webkit-transform: translate(-197px, -215px);
+		-ms-transform: translate(-197px, -215px);
+		transform: translate(-197px, -215px);
+	}
+	.footer__bottom .container{
+		flex-wrap: wrap;
+	}
+}
+
+
+@media only screen and (max-width : 992px) {
+	.footer__bottom__logo {
+		width: 105px;
+	}
+	.header__title, .header__description {
+		text-align: center;
+	}
+	.header__description br, .about-company__description br {
+		display: none;
+	}
+	.header__line {
+		margin: auto;
+		margin-bottom: 55px;
+	}
+	.header__mockup-shoes {
+		position: static;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-pack: center;
+		-ms-flex-pack: center;
+		justify-content: center;
+		margin-top: 120px;
+	}
+	.cocoen img {
+		width: 570px !important;
+	}
+	.mockup-shoes__before {
+		top: 560px;
+		left: auto;
+		right: auto;
+		margin: auto;
+	}
+	.btn {
+		margin: auto;
+	}
+	.header__title {
+		font-size: 30px;
+		line-height: 46px;
+	}
+	.about-company__sneaker {
+		max-width: 386px;
+		position: static;
+	}
+	.about-company__wrapper {
+		padding-top: 0;
+	}
+	.methods__item {
+		margin-right: auto !important;
+		text-align: center;
+		-webkit-transform: translateY(0) translateX(0) !important;
+		-ms-transform: translateY(0) translateX(0) !important;
+		transform: translateY(0) translateX(0) !important;
+		margin-bottom: 50px !important;
+		max-width: 100% !important;
+		margin-left: auto !important;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		-moz-flex-direction: column;
+		-ms-flex-direction: column;
+		-o-flex-direction: column;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		flex-direction: column;
+	}
+	.methods__item:last-child {
+		margin-bottom: 0;
+	}
+	.methods__item__dot {
+		position: static;
+		-ms-align-self: center;
+		-ms-flex-item-align: center;
+		-ms-grid-row-align: center;
+		align-self: center;
+		margin-bottom: 20px;
+	}
+	.about-company__description {
+		margin-bottom: 30px;
+	}
+	.about-company {
+		padding-bottom: 0;
+	}
+	.tarrifs__discount {
+		position: static;
+		min-width: 100%;
+	}
+	.tariffs:before {
+		top: -111px;
+	}
+	.tariffs:after {
+		top: -94px;
+	}
+	.tariffs {
+		padding-top: 200px;
+	}
+	.about-company__title, .tariffs__title, .stages__title, .adv__title, .portfolio__title, .footer__title, .modal__title {
+		text-align: center;
+	}
+	.tariffs__title:after, .stages__title::after, .adv__title::after {
+		margin: auto;
+		margin-top: 35px;
+	}
+	.tariffs__subtitle, .tariffs__price {
+		text-align: center;
+	}
+	.tariffs__item_three, .tariffs__item_four {
+		margin-top: 0;
+	}
+	.tariffs__item {
+		margin-bottom: 60px;
+	}
+	.tariffs__circle {
+		display: none;
+	}
+	.stages__pattern {
+		display: none;
+	}
+	.stages__list {
+		-webkit-transform: translateY(0);
+		-ms-transform: translateY(0);
+		transform: translateY(0);
+		margin-left: 0;
+		-webkit-box-pack: center;
+		-ms-flex-pack: center;
+		justify-content: center;
+		max-height: 100%;
+		-moz-flex-direction: column;
+		-ms-flex-direction: column;
+		-o-flex-direction: column;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		flex-direction: column;
+		margin-top: 50px;
+	}
+	.stages {
+		padding-top: 70px;
+		max-height: 100%;
+		padding-bottom: 197px;
+	}
+	.stages__item:nth-child(3), .stages__item:nth-child(4), .stages__item:nth-child(5),.stages__item:nth-child(6){
+		margin-left: 0;
+		margin-top: 0;
+		-webkit-transform: translate(0);
+		-ms-transform: translate(0);
+		transform: translate(0);
+		-webkit-box-ordinal-group: initial;
+		-ms-flex-order: initial;
+		order: initial;
+	}
+	.stages__item {
+		margin: auto !important;
+		margin-bottom: 50px !important;
+	}
+	.stages__item:last-child {
+		margin-bottom: 0 !important;
+	}
+	.stages:before {
+		bottom: -136px;
+	}
+	.stages:after {
+		bottom: -121px;
+	}
+	.stages__title {
+		width: 100%;
+	}
+	.adv__item {
+		margin: auto;
+		text-align: center;
+	}
+	.adv__item:before {
+		display: none;
+	}
+	.adv__img {
+		-webkit-transform: translate(0) !important;
+		-ms-transform: translate(0) !important;
+		transform: translate(0) !important;
+	}
+	.adv__trainers {
+		position: static;
+		margin-top: 50px;
+	}
+	.portfolio__block {
+		margin-bottom: 80px !important;
+		margin-top: 0 !important;
+	}
+	.portfolio__item {
+		max-width: 274px;
+		margin: auto;
+	}
+	.portfolio__more__text {
+		font-size: 18px;
+		line-height: 28px;
+	}
+	.footer__contact__item {
+		-ms-flex-preferred-size: 100%;
+		flex-basis: 100%;
+		margin-right: 0;
+		text-align: center;
+		margin-bottom: 25px;
+	}
+	.footer__contact__desc {
+		margin-bottom: 0;
+	}
+	.footer__top {
+		position: static;
+	}
+	.map {
+		height: 550px;
+	}
+	.portfolio__more {
+		margin-top: 50px;
+	}
+
+	.footer__bottom .footer_bottom_logo{
+		text-align: center;
+		flex: 0 0 100%;
+		margin-bottom: 30px;
+	}
+
+	.footer_bottom_info .info_block .info_title{
+		margin-bottom: 20px;
+	}
+
+	.info_block.header__nav{
+		flex-wrap: wrap;
+	}
+
+	.footer_bottom_info .info_block .services_list{
+		gap: 10px 20px;
+		text-align: left;
+	}
+	.footer__bottom .footer_bottom_info .info_bottom{
+		flex-direction: column;
+		gap: 10px 0;
+		text-align: left;
+	}	
+	main .price .section_title {
+		font-size: 40px;
+	}
+	main .services .section_title {
+		font-size: 40px;
+	}
+	main .services .service_item .item_price{
+		width: 168px;
+	}
+	main .shoes .shoes_block {
+		padding: 0px 0px 70px 0px;
+		gap: 0px;
+	}
+	main .shoes.last .shoes_block {
+		padding: 0px 0px 70px 0px;
+	}
+	.service .service_item {
+		gap: 0;
+	}
+	main .info .service .service_price {
+		font-size: 18px;
+		text-align: right;
+	}
+	main .info .service .service_name{
+		font-size: 18px;
+	}
+	main .shoes_name {
+		margin-left: 53%;
+		font-size: 40px;
+		margin-bottom: -13%;
+	}
+	main .shoes .order .form_inputs {
+		padding: 72px 18px 73px 18px;
+	}
+	main .shoes .order {
+		padding-bottom: 70px;
+	}
+	/* himchistka-timberlend */
+	.hero .section_title {
+		font-size: 49px;
+	}
+	.info .section_title {
+		font-size: 35px;
+	}
+	.section_description {
+		padding-bottom: 40px;
+	}
+	.swiper {
+		padding: 60px 0 60px !important;
+	}
+	.swiper-slide:after {
+		right: 46px;
+	}
+	.swiper-button-prev {
+		left: 120px !important;
+	}
+	.swiper-button-next {
+		right: 120px !important;
+	}
+	.info .container {
+		padding-bottom: 0;
+	}
+	.steps .section_title {
+		font-size: 35px;
+	}
+	.steps .steps_top .steps_image{
+		width: 316px;
+		height: 316px;
+	}
+	.steps .block_title {
+		margin-right: 0px;
+		margin-top: 0px;
+		font-size: 23px;
+		padding-top: 50px;
+	}
+	.info .container {
+		padding: 51px 15px;
+	}
+	.steps .container {
+		padding: 0px 15px 0 15px;
+	}
+	.why .container {
+		padding: 40px 15px 0 15px;
+	}
+	.timberlends_price .container {
+		padding: 107px 25px 0 25px;
+	}
+	.steps .steps_block .section_description:first-child {
+		margin-right: 0px;
+	}
+	.steps .steps_block {
+		gap: 0;
+		padding-bottom: 40px;
+	}
+	main .order .form_inputs {
+		padding: 52px 44px 53px 24px;
+	}
+	.why .section_title {
+		font-size: 35px;
+	}
+	.why .why_block {
+		gap: 0;
+		padding-top: 0;
+	}
+	.timberlends_price .container {
+		padding: 0px 25px 0 25px;
+	}
+	.timberlends_price .form_block {
+		gap: 20px;
+	}
+	.timberlends_price .form_block .right_texts {
+		gap: 15px;
+	}
+	.timberlends_price .form_block form {
+		padding: 30px 20px;
+	}
+	.timberlends_price .form_block input {
+		min-width: 315px;
+	}
+	.timberlends_price .form_block button::before {
+		width: 315px;
+		left: -10px;
+	}
+	.timberlends_price .form_block button {
+		min-width: 285px;
+	}
+	.faq .accordion .accordion_item input[type=checkbox]:checked ~ p {
+		margin-top: -40px;
+	}
+	.note .note_block {
+		padding: 70px 0;
+	}
+	.timberlends_price .faq .accordion .accordion_item{
+		padding: 17px 23px 20px 12px;
+	}
+	.faq .accordion .accordion_item i {
+		right: 20px;
+	}
+
+	/* contacts */
+	.contacts .container{
+		padding-top: 48px;
+		padding-bottom: 152px;
+	}
+	.contacts .steps_block {
+		margin-top: -65px;
+	}
+	.contacts .steps_block .section_description {
+		margin-right: 335px;
+		padding: 29px 0;
+	}
+
+	/* О НАС */
+	.aboutUs .container{
+		padding-bottom: 64px;
+	}
+	.aboutUs .equipments_block .equp_item:nth-child(n+3) {
+		width: calc(50% - 20px);
+	}
+	.aboutUs .equipments_block .equp_item{
+		width: calc(50% - 20px);
+	}
+	.aboutUs .equipments_block .equp_item .equp_name{
+		width: 100%;
+		padding: 15px 20px;
+	}
+
+	/* ERROR */
+	.error .container{
+		padding-bottom: 60px;
+	}
+	.error .error_block .error_image{
+		width: 50%;
+	}
+	.error .error_block .error_texts {
+		padding: 66px 0 0 0px;
+		width: 50%;
+	}
+	.error .error_block .available_links a{
+		padding: 13px 15px;
+	}
+	.error .error_block .available_links {
+		gap: 30px;
+		justify-content: center;
+	}
+	.error .error_block .contact_tel{
+		text-align: right;
+    	transform: translate(0);
+	}
+}
+@media only screen and (max-width : 768px){
+	main .services .service_block {
+		padding: 50px 0;
+	}
+	main .services .service_item {
+		flex-wrap: wrap;
+		justify-content: flex-end;
+		gap: 20px;
+	}
+	main .shoes .shoes_block .shoes_item .shoes_item_bottom {
+		flex-direction: column;
+		align-items: center;
+	}
+	main .shoes .shoes_name{
+		margin: 0;
+		text-align: center;
+	}
+	main .shoes .order .form_inputs {
+		flex-direction: column;
+		align-items: center;
+	}
+	main .shoes .shoes_name {
+		padding-bottom: 46px;
+	}
+	main .shoes .info{
+		padding-top: 40px;
+	}
+	main .price .quick_menu img {
+		display: none;
+	}
+	main .price .section_title {
+		line-height: 48px;
+	}
+	main .services .section_title{
+		line-height: 48px;
+	}
+	main .shoes .shoes_block .shoes_item {
+		padding: 90px 0 0 0;
+		margin-top: 0;
+	}
+	/* himchistka-timberlend */
+	.hero .images_row {
+		flex-direction: column;
+		gap: 45px;
+		padding-top: 87px;
+	}
+	.hero .section_title{
+		font-size: 40px;
+		line-height: 48px;
+	}
+	.info {
+		padding-top: 78px;
+	}
+	.timberlends_price .section_title {
+		font-size: 35px;
+	}
+	.steps .section_title {
+		line-height: 42px;
+	}
+	.swiper-button-prev {
+		left: 30px !important;
+	}
+	.swiper-button-next {
+		right: 30px !important;
+	}
+	.steps .steps_top {
+		flex-direction: column;
+		gap: 50px;
+		align-items: center;
+		padding: 50px 0;
+	}
+	.steps .block_title{
+		display: none;
+	}
+	.steps .form_name{
+		padding-bottom: 27px;
+	}
+	.steps .container .order .form_inputs{
+		flex-direction: column;
+		align-items: center;
+		padding: 68px 15px;
+		gap: 50px;
+	}
+	.steps .container .order input{
+		max-width: 315px;
+	}
+	.why .section_title{
+		line-height: 41px;
+		font-size: 28px;
+	}
+	.why .why_block .why_item_top .number{
+		display: none;
+	}
+	.why .why_block .why_item_name{
+		position: relative;
+		padding-left: 10px;
+		margin-left: 20px;
+	}
+	.why .why_block .why_item_name::after{
+		display: block;
+		position: absolute;
+		content: "";
+		left: 0;
+		top: 40%;
+		width: 4px;
+		height: 4px;
+		background-color: #515151;
+		border-radius: 50%;
+	}
+	.timberlends_price .shoes_block{
+		padding: 80px 0 88px 0 !important;
+	}
+	.timberlends_price .shoes_block .shoes_item .shoes_item_bottom{
+		flex-direction: column;
+		align-items: center;
+	}
+	.timberlends_price .shoes_item .shoes_name {
+		margin-left: 0;
+		margin-bottom: 0;
+		text-align: center;
+		padding-bottom: 46px;
+	}
+	.timberlends_price .shoes_block .shoes_item{
+		margin: 0;
+		padding-top: 0 !important;
+	}
+	.timberlends_price .price_list li:first-child{
+		font-size: 18px;
+		line-height: 22px;
+	}
+	.timberlends_price .form_block{
+		flex-direction: column;
+		align-items: center;
+		gap: 0;
+		padding-top: 50px;
+	}
+	.timberlends_price .form_block .question{
+		text-align: center;
+	}
+	.faq .accordion .accordion_item i{
+		top: 40px;
+	}
+	.note .note_block{
+		flex-direction: column;
+		gap: 50px;
+		align-items: center;
+	}
+	.note .note_block .note_item{
+		gap: 45px;
+	}
+	.footer_bottom_info .info_block .services_list {
+		justify-content: flex-start;
+	}
+
+	/* contacts */
+	.contacts .steps_block .section_description {
+		margin-right: 0;
+		padding-bottom: 56px !important;
+		padding-top: 0;
+	}
+	.contacts .steps_block .section_description:last-child{
+		padding: 0;
+	}
+	.contacts .steps_top{
+		padding-top: 56px;
+		gap: 36px;
+	}
+	.contacts .steps_top .section_description.contact_tel,
+	.contacts .steps_block .section_description.email_{
+		text-align: center;
+	}
+	.contacts .steps_top .contact_tel span{
+		padding: 14px 0 0 0;
+		font-size: 28px;
+		line-height: 34px;
+	}
+	.contacts .steps_top .contact_tel br,
+	.contacts .steps_block .section_description.email_ br{
+		display: block;
+	}
+	.contacts .steps_block {
+		margin-top: 0;
+	}
+	.contacts .steps_top .section_description {
+		padding-bottom: 26px;
+	}
+	.contacts .steps_top .section_description:last-child{
+		padding: 20px 0 0 0;
+	}
+
+	/* О НАС */
+	.aboutUs .equipments_block{
+		padding-bottom: 75px;
+	}
+	.aboutUs .equipments_block .equp_item{
+		width: 100%;
+	}
+	.aboutUs .equipments_block .equp_item:nth-child(n+3) {
+		width: 100%;
+	}
+	.aboutUs .equipments_block .equp_item .equp_name{
+		padding: 11px 5px;
+	}
+	.aboutUs .equp_description {
+		display: none;
+	}
+	.aboutUs .writtenAfter{
+		flex-wrap: wrap;
+		justify-content: center;
+		gap: 10px;
+	}
+	main .aboutUs .order {
+		padding-bottom: 66px;
+	}
+	.aboutUs .steps_top {
+		padding-top: 30px;
+	}
+
+	/* ERROR */
+	.error .container{
+		padding-bottom: 60px;
+	}
+	.error .error_block .error_image {
+		width: 100%;
+		order: 10;
+		text-align: center;
+	}
+	.error .error_block .error_texts{
+		width: 100%;
+		text-align: center;
+		padding-bottom: 57px;
+	}
+	.error .error_block .available_links {
+		gap: 40px;
+		justify-content: center;
+		flex-direction: column;
+		align-items: center;
+	}
+	.error .error_block .available_links a{
+		width: 80%;
+	}
+	.error .error_block .contact_tel{
+		transform: translate(0);
+		line-height: 48px;
+		text-align: center;
+		padding: 58px 0 88px 0;
+	}
+	.error .error_block .contact_tel br{
+		display: block;
+	}
+	.error .error_block .contact_tel a{
+		font-size: 26px;
+		line-height: 31px;
+	}
+	.error .error_block .error_texts .section_description {
+		padding-bottom: 29px;
+		padding-top: 0;
+	}
+	.error .error_block .error_texts .error_title{
+		padding-bottom: 44px;
+	}
+}
+
+@media only screen and (max-width : 668px){
+	.about-company__title, .tariffs__title, .stages__title, .adv__title, .portfolio__title, .footer__title, .modal__title {
+		font-size: 28px;
+		line-height: normal;
+	}
+	.modal__title {
+		font-size: 20px;
+		line-height: normal;
+	}
+	.modal__subtitle {
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.modal__security {
+		font-size: 14px !important;
+		line-height: 1.25 !important;
+	}
+	.footer_bottom_info .info_block .info_contacts{
+		flex: 0 0 100%;
+		margin-bottom: 30px;
+	}
+	.footer__bottom .footer_bottom_logo{
+		text-align: left;
+	}
+	.wrapper{
+		overflow: hidden;
+	}
+	.header_action{
+		align-items: center;
+		width: 100%;
+		flex: 1;
+	}
+
+	.header_action .header__callback{
+		font-size: 16px;
+		line-height: 18px;
+	}
+
+	.header__logo__img, .header__top_sticky .header__logo__img{
+		max-width: 50px;
+	}
+	main .price .section_title {
+		font-size: 30px;
+	}
+	.services .section_title {
+		font-size: 30px;
+	}
+	main .shoes .shoes_item .shoes_name span{
+		display: none;
+	}
+	main .price .quick_menu .menu_items{
+		gap: 10px 0;
+	}
+	main .price .quick_menu .menu_item{
+		width: calc(50% - 5px);
+		text-align: center;
+		padding: 10px 0;
+	}
+	/* himchistka-timberlend */
+	.info .mobile_swiper_name{
+		display: block;
+		text-align: center;
+		font-family: 'TT Travels';
+		font-weight: 500;
+		font-size: 28px;
+		line-height: 34px;
+		color: #515151;
+		padding: 40px 0 20px 0;
+	}
+	.timberlends_price .price_list .service_name {
+		padding-left: 5px;
+	}
+	.timberlends_price .price_list .service_price {
+		padding-right: 5px;
+		width: 86px;
+	}
+
+	.section_description{
+		padding-top: 20px;
+	}	
+}
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 481px) {
+	.footer_bottom_info .info_block .services_list{
+		flex-direction: column;
+	}
+	.footer__bottom {
+		margin-top: 45px;
+		padding: 30px 0;
+	}
+	.footer__bottom__logo {
+		width: 95px;
+	}
+	.header__title {
+		font-size: 30px;
+		line-height: 46px;
+	}
+	.cocoen img {
+		width: 360px !important;
+	}
+	.header {
+		min-height: 1061px;
+	}
+	.cocoen-drag {
+		width: 3px;
+	}
+	.cocoen-drag::before {
+		-webkit-transform: scale(0.7);
+		-ms-transform: scale(0.7);
+		transform: scale(0.7);
+	}
+	.btn__line {
+		display: none;
+	}
+	.btn {
+		background: #f7be0d;
+		-webkit-box-shadow: 0px 0px 61.32px 11.68px rgba(247, 190, 13, 0.13), 0px 13px 30.96px 5.04px rgba(0, 0, 0, 0.07);
+		box-shadow: 0px 0px 61.32px 11.68px rgba(247, 190, 13, 0.13), 0px 13px 30.96px 5.04px rgba(0, 0, 0, 0.07);
+		border: none;
+		margin-top: 10px;
+	}
+	.btn:before {
+		display: none;
+	}
+	.circle2 {
+		right: 160px;
+		top: -93px;
+	}
+	.discount__block__title {
+		font-size: 25px;
+		line-height: 26px;
+	}
+	/* himchistka-timberlend */
+	.timberlends_price .accordion_item .answer{
+		padding-right: 50px;
+	}
+}
+
+@media only screen and (max-width : 426px){
+	.discount__desc {
+		font-size: 14px;
+		line-height: normal;
+	}
+	.tarrifs__discount {
+		min-height: 100%;
+	}
+	/* himchistka-timberlend */
+	.timberlends_price .price_list .service_price{
+		width: 121px;
+		text-align: right;
+	}
+}
+
+@media only screen and (max-width : 415px){
+	.header__title {
+		font-size: 24px;
+		line-height: 39px;
+	}
+	.callback__img {
+		width: 31px;
+	}
+	.swiper-button-prev {
+		left: 0px !important;
+	}
+	.swiper-button-next {
+		right: 0px !important;
+	}
+	/* himchistka-timberlend */
+	.faq .accordion .accordion_item i {
+		top: 52px;
+	}
+
+	.header__top{
+		padding-left: 15px;
+		padding-right: 15px;
+		padding-top: 10px;
+		
+	}
+	
+	.header__burger{
+		height: 35px;
+		width: 35px;
+		right: 15px;
+		top: 19px;
+	}
+
+	.header_action{
+		padding-right: 15px;
+	}
+}
+
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 376px) {
+	.header__title {
+		font-size: 30px;
+		line-height: 45px;
+	}
+	.about-company__sneaker {
+		width: 100%;
+	}
+	.methods__item {
+		padding-left: 0;
+	}
+	.tarrifs__discount {
+		padding: 15px;
+	}
+	.portfolio__more__text {
+		font-size: 17px;
+		line-height: 28px;
+	}
+	.menu {
+		width: 100%;
+	}
+}
+
+@media only screen and (max-width : 361px){
+	.cocoen img {
+		width: 300px !important;
+	}
+	.adv__trainers img {
+		width: 100%;
+	}
+	.header__title {
+		font-size: 28px;
+		line-height: 41px;
+	}
+	.discount__block {
+		padding-left: 25px;
+	}
+	.portfolio__more__text br {
+		display: none;
+	}
+	.btn {
+		min-width: 100%;
+	}
+	.portfolio__circle1 {
+		display: none;
+	}
+	.modal-content {
+		padding: 0px 15px;
+	}
+	/* himchistka-timberlend */
+	main .info .service .service_item{
+		gap: 24px;
+	}
+	main .info .service .service_price {
+		width: 106px;
+	}
+}
+
+@media only screen and (max-width : 328px){
+	.faq .accordion .accordion_item i {
+		top: 63px;
+	}
+
+	
+}
+
+@media only screen and (max-width : 321px) {
+	.tariffs__subtitle {
+		font-size: 18px;
+	}
+	.modal__security br {
+		display: none;
+	}
+	.header__title {
+		font-size: 23px;
+		line-height: 34px;
+	}
+	.tariffs__item__wrapper {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.discount__desc br {
+		display: none;
+	}
+	main .shoes_image{
+		width: 290px;
+    	height: 220px;
+	}
+	main .shoes_image img{
+		width: 280px;
+    	height: 210px;
+	}
+	.timberlends_price .form_block input {
+		min-width: 290px;
+	}
+	.timberlends_price .form_block button {
+		margin-left: 0px;
+	}
+}
